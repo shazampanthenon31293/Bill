@@ -18,6 +18,10 @@ body{
     margin: 0px;
     font-weight: bold;
 }
+.billtitle{
+    color: darkviolet;
+    font-weight: bold;
+}
 .legislationtype {
     font-size: 30pt;
     text-transform: uppercase;
