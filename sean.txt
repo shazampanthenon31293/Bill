@@ -176,18 +176,19 @@ Definitions.- In this title-
 Sec._________________
 (a) Designation of A Bill.- The concurrent resolution to designate a bill and the bill that will be expidited must be a Original Measure. After the introduction of the bill it must be signed for by the Chairman of one of the appropriate congressional committees (It must be the committee that marked up the bill). 
 
-(b) Debate in the Senate.-Debate in the Senate on any designate bill or resolution (can either be simple or concurrent resolutions) to designate bills reported by the Senate or House Budget Committee, and all amendments there to and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours. The debate time shall not count time in which the senate is having a roll call vote. The bill and resolution must be sponsored by the same Senator or Repersentive. The sponsor must be the chair or ranking member of either the Senate Committee on Rules and Administration or the House Committee on House Administration. Time for debate must be split equally between the majority and minority parties. 
+(b) Debate in the Senate.-Debate in the Senate on any designate bill or resolution (can either be simple or concurrent resolutions) to designate bills reported by the Senate or House Budget Committee, and all amendments there to and debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours. The debate time shall not count time in which the senate is having a roll call vote. The bill and resolution must be sponsored by the same Senator or Repersentive. The sponsor must be the chair or ranking member of either the Senate Committee on Rules and Administration or the House Committee on House Administration. Time for debate must be split equally between the majority and minority parties. During the consideration of the bill or the concurrent resolution to designate a bill the Vice President of the Senate (As president of the senate) shall proside over the debate of the bill. Voting on amendements shall not count towards the 20 hours of debate. 
 
-(c) Prohibiting Amendments.-Amendments shall not be offered on the resolution to designate bills. 
+(c) Prohibiting Amendments.-Amendments shall not be offered on the resolution to designate bills. Any attempt to offer amendement shall be considered not in order. This point of order shall only be waived by a unamious consent agreement (with a quoroum present when the unamious consent agreement is offered)
 
-(d) After Debate Expiring.-Immediately after the fourty hours have expired, the senate shall take a roll call vote on wether to pass the bill. The bill shall only be required to pass by a simple majority (not withstanding any provison of the constitution). If the bill passes then the Secretary shall send a note to the clerk of the house . If the bill has passed in a identical form in the house then the bill shall be enrolled with in seven days. If they have not passed it then the House shall take up the bill within 72 hours of getting the message. If not then any repersentive may require for the chamber to come back into session with the signatures of themselves and ten other members. The clerk of the house or the secretary of the senate shall make sure that the signatures are authentic. If he/she determines that the signatures are authentic then she shall sign a document requiring the reconveing of the chamber within 12 hours. 
+(d) After Debate Expiring.-Immediately after the fourty hours have expired, the senate shall take a roll call vote on wether to pass the bill. The bill shall only be required to pass by a simple majority (not withstanding any provison of the constitution). If the bill passes then the Secretary shall send a note to the clerk of the house . If the bill has passed in a identical form in the house then the bill shall be enrolled with in seven days. If they have not passed it then the House shall take up the bill within 72 hours of getting the message. If not then any repersentive may require for the chamber to come back into session with the signatures of themselves and ten other members. The clerk of the house or the secretary of the senate shall make sure that the signatures are authentic. If he/she determines that the signatures are authentic then she shall sign a document requiring the reconveing of the chamber within 12 hours. The clerk of the house or the secretary of the senate shall notify the other about the reconveing of the chamber. 
 
 (e) Point of Order against Adjournment.-It shall not be in order in either the House of Representatives or the Senate to consider any resolution or motion to Adjourn either designate bill or resolution has been voted up or down in both chambers. This may only be waived by unamious consent. The member who asks for adjournment must give the chamber a reason in the form of a written statement that shall be entered into the congressional record.
 
 
 (f) One Amendement.- The senate majority leader or his/her designee may offer only one Amendment in Nature of a Substitute during the entire debate over the bill. The senate minority leader or his/her designee may offer only one Amendment in Nature of a Substitute during the entire debate over the bill. Once a Amendment in Nature of a Substitute is offered it must follow this procedure-
-    (1) Debate for 5 hours;
+    (1) Debate for 7 hours;
     (2) Equall split between the majority and minority;
+    (3) The vice president shall preside over the senate during the consideration of the Amendment in Nature of a Substitute
     (3) The chair and ranking member of the Senate Committee on Rules and Administration;
     (4) No amendement to the Amendment in Nature of a Substitute may be offered (except if allowed by unamious consent);
     (5) After debate has expired then the amendement must be voted up or down; 
@@ -203,7 +204,7 @@ Sec._________________
 
 
 
-Title 5-Enactement and Repeal
+Title 5-Enactement
 Sec.________
 This title may be cited as "Honor Veterans Acts"
 
@@ -262,50 +263,75 @@ There are hereby enacted into law the following:
     (49) S.1040, A bill to amend title 38, United States Code, to expand eligibility for hospital care, medical services, and nursing home care from the Department of Veterans Affairs to include veterans of World War II, of the 117th Congress, as introduced by the Senate.
     (50) H.Res 172,Expressing support for the designation of February 28, as "Desert Storm Veterans Day", of the 117th Congress, as introduced by the House of Representatives.
     (51) S.514, A bill to rename the Provo Veterans Center in Orem, Utah, as the "Col. Gail S. Halvorsen 'Candy Bomber' Veterans Center", of the 117th Congress, as introduced by the Senate.
-    (52) S.134, A bill to direct the Secretary of Veterans Affairs to carry out a retraining assistance program for unemployed veterans, and for other purposes, of the 117th Congress, as introduced by the Senate.
-    (53) H.R.3802, To make permanent the authority of the Secretary of Veterans Affairs to make grants for the transportation of highly rural veterans to medical care, of the 117th Congress, as introduced by the House of Representatives.
-    (54) H.R.5562, To amend title 38, United States Code, to expand eligibility for hospital care, medical services, and nursing home care from the Department of Veterans Affairs to include veterans of World War II, of the 117th Congress, as introduced by the House of Representatives.
-    (55) S.2771, A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in San Angelo, Texas, as the "Colonel Charles and JoAnne Powell Department of Veterans Affairs Clinic", of the 117th Congress, as introduced by the Senate.
-    (56) S.1803, A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in Columbus, Georgia, as the "Robert S. Poydasheff Department of Veterans Affairs Clinic", of the 117th Congress, as introduced by the Senate.
-    (57) S.3020, A bill to require the Secretary of Veterans Affairs to modify the eligibility of veterans for treatment as a low-income family for purposes of enrollment in the patient enrollment system of the Department of Veterans Affairs and to guarantee health care benefits for veterans enrolled in such system, and for other purposes, of the 117th Congress, as introduced by the Senate.
-    (58) S.1760, A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs planned to be built in Oahu, Hawaii, as the "Daniel Kahikina Akaka Department of Veterans Affairs Community-Based Outpatient Clinic", of the 117th Congress, as introduced by the Senate.
-    (59) H.R.307, To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to include the KIA, MIA, and POW acronyms on headstones and markers furnished by the Department of Veterans Affairs, of the 117th Congress, as introduced by the House of Representatives.
-    (60) H.R.5789, To direct the Secretary of Veterans Affairs to improve the ability of veterans to make appointments for mental health care furnished by the Secretary, of the 117th Congress, as introduced by the House of Representatives.
-    (61) H.R.5776,To amend title 38, United States Code, to establish in the Department of Veterans Affairs a Center for Lesbian, Gay, Bisexual, Transgender, and Queer Veterans, of the 117th Congress, as introduced by the House of Representatives.
-    (62) H.R.430, Veterans Cannabis Use for Safe Healing Act, of the 117th Congress, as introduced by the House of Representatives.
-    (63) H.R.345, Reproductive Health Information for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
-    (64) H.R.3930, Voices for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
-    (65) H.R.1292, Same-Day Accountability for Veterans Enhancement Act, of the 117th Congress, as introduced by the House of Representatives.
-    (66) H.Res.268, Recognizing the patriotism and contributions of veterans service organizations, of the 117th Congress, as introduced by the House of Representatives.
-    (67) H.R.2588, Veterans Medical Marijuana Safe Harbor Act, of the 117th Congress, as introduced by the House of Representatives.
-    (68) H.Res.172, Expressing support for the designation of February 28, as "Desert Storm Veterans Day", of the 117th Congress, as introduced by the House of Representatives.
-    (69) H.R.2371, Veterans’ Right to Breathe Act, of the 117th Congress, as introduced by the House of Representatives.
-    (70) H.R.3596, Lawrence J. Hackett, Jr., Vietnam Veterans Agent Orange Fairness Act, of the 117th Congress, as introduced by the House of Representatives.
-    (71) H.R.2580, Palomares Veterans Act of 2021, of the 117th Congress, as introduced by the House of Representatives.
-    (72) H.R.914, Dental Care for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
-    (73) H.R.4627, Veterans’ Culturally Competent Care Act, of the 117th Congress, as introduced by the House of Representatives.
-    (74) H.R.1182, Veteran Deportation Prevention and Reform Act, of the 117th Congress, as introduced by the House of Representatives.
-    (75) H.R.617, No Coronavirus Copays for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
-    (76) H.Res.464, Expressing support for the designation of July 16 as "National Atomic Veterans Day", of the 117th Congress, as introduced by the House of Representatives.
-    (77) S.1313, Honoring All Veterans Act of 2021, of the 117th Congress, as introduced by the Senate.
-    (78) H.Res.270, Expressing support for designation of a Welcome Home Vietnam Veterans Day, of the 117th Congress, as introduced by the House of Representatives.
-    (79) H.R.5354, Veterans Jobs Opportunity Act, of the 117th Congress, as introduced by the House of Representatives.
-    (80) S.927, Toxic Exposure in the American Military Act, of the 117th Congress, as introduced by the Senate.
-    (81) H.R.4982, Agent Orange Service Medal Act, of the 117th Congress, as introduced by the House of Representatives.
-    (82) S.2102, SERVICE Act of 2021, of the 117th Congress, as introduced by the Senate.
-    (83) H.R.3674, Vet Center Support Act, of the 117th Congress, as introduced by the House of Representatives.
-    (84) H.R.4772, Mark O’Brien VA Clothing Allowance Improvement Act, of the 117th Congress, as introduced by the House of Representatives.
-    (85) S.2261, Healthcare Opportunities for Patriots in Exile Act, of the 117th Congress, as introduced by the Senate.
-    (86) S.1935, Veteran Readiness and Employment National Emergency Extended Deadline Act of 2021, of the 117th Congress, as introduced by the Senate.
-    (87) Section 559K of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (88) Section 577 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (89) Section 582 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (90) Section 583 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (91) Section 744 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (92) Section 1412 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (93) Section 5118 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (94) Section 5119 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
-    (95) 
+    (52) H.R.3802, To make permanent the authority of the Secretary of Veterans Affairs to make grants for the transportation of highly rural veterans to medical care, of the 117th Congress, as introduced by the House of Representatives.
+    (53) H.R.5562, To amend title 38, United States Code, to expand eligibility for hospital care, medical services, and nursing home care from the Department of Veterans Affairs to include veterans of World War II, of the 117th Congress, as introduced by the House of Representatives.
+    (54) S.2771, A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in San Angelo, Texas, as the "Colonel Charles and JoAnne Powell Department of Veterans Affairs Clinic", of the 117th Congress, as introduced by the Senate.
+    (55) S.1803, A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in Columbus, Georgia, as the "Robert S. Poydasheff Department of Veterans Affairs Clinic", of the 117th Congress, as introduced by the Senate.
+    (56) S.3020, A bill to require the Secretary of Veterans Affairs to modify the eligibility of veterans for treatment as a low-income family for purposes of enrollment in the patient enrollment system of the Department of Veterans Affairs and to guarantee health care benefits for veterans enrolled in such system, and for other purposes, of the 117th Congress, as introduced by the Senate.
+    (57) S.1760, A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs planned to be built in Oahu, Hawaii, as the "Daniel Kahikina Akaka Department of Veterans Affairs Community-Based Outpatient Clinic", of the 117th Congress, as introduced by the Senate.
+    (58) H.R.307, To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to include the KIA, MIA, and POW acronyms on headstones and markers furnished by the Department of Veterans Affairs, of the 117th Congress, as introduced by the House of Representatives.
+    (59) H.R.5789, To direct the Secretary of Veterans Affairs to improve the ability of veterans to make appointments for mental health care furnished by the Secretary, of the 117th Congress, as introduced by the House of Representatives.
+    (60) H.R.5776,To amend title 38, United States Code, to establish in the Department of Veterans Affairs a Center for Lesbian, Gay, Bisexual, Transgender, and Queer Veterans, of the 117th Congress, as introduced by the House of Representatives.
+    (61) H.R.430, Veterans Cannabis Use for Safe Healing Act, of the 117th Congress, as introduced by the House of Representatives.
+    (62) H.R.345, Reproductive Health Information for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
+    (63) H.R.3930, Voices for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
+    (64) H.R.1292, Same-Day Accountability for Veterans Enhancement Act, of the 117th Congress, as introduced by the House of Representatives.
+    (65) H.Res.268, Recognizing the patriotism and contributions of veterans service organizations, of the 117th Congress, as introduced by the House of Representatives.
+    (66) H.R.2588, Veterans Medical Marijuana Safe Harbor Act, of the 117th Congress, as introduced by the House of Representatives.
+    (67) H.Res.172, Expressing support for the designation of February 28, as "Desert Storm Veterans Day", of the 117th Congress, as introduced by the House of Representatives.
+    (68) H.R.2371, Veterans’ Right to Breathe Act, of the 117th Congress, as introduced by the House of Representatives.
+    (69) H.R.3596, Lawrence J. Hackett, Jr., Vietnam Veterans Agent Orange Fairness Act, of the 117th Congress, as introduced by the House of Representatives.
+    (70) H.R.2580, Palomares Veterans Act of 2021, of the 117th Congress, as introduced by the House of Representatives.
+    (71) H.R.914, Dental Care for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
+    (72) H.R.4627, Veterans’ Culturally Competent Care Act, of the 117th Congress, as introduced by the House of Representatives.
+    (73) H.R.1182, Veteran Deportation Prevention and Reform Act, of the 117th Congress, as introduced by the House of Representatives.
+    (74) H.R.617, No Coronavirus Copays for Veterans Act, of the 117th Congress, as introduced by the House of Representatives.
+    (75) H.Res.464, Expressing support for the designation of July 16 as "National Atomic Veterans Day", of the 117th Congress, as introduced by the House of Representatives.
+    (76) S.1313, Honoring All Veterans Act of 2021, of the 117th Congress, as introduced by the Senate.
+    (77) H.Res.270, Expressing support for designation of a Welcome Home Vietnam Veterans Day, of the 117th Congress, as introduced by the House of Representatives.
+    (78) H.R.5354, Veterans Jobs Opportunity Act, of the 117th Congress, as introduced by the House of Representatives.
+    (79) S.927, Toxic Exposure in the American Military Act, of the 117th Congress, as introduced by the Senate.
+    (80) H.R.4982, Agent Orange Service Medal Act, of the 117th Congress, as introduced by the House of Representatives.
+    (81) S.2102, SERVICE Act of 2021, of the 117th Congress, as introduced by the Senate.
+    (82) H.R.3674, Vet Center Support Act, of the 117th Congress, as introduced by the House of Representatives.
+    (83) H.R.4772, Mark O’Brien VA Clothing Allowance Improvement Act, of the 117th Congress, as introduced by the House of Representatives.
+    (84) S.2261, Healthcare Opportunities for Patriots in Exile Act, of the 117th Congress, as introduced by the Senate.
+    (85) S.1935, Veteran Readiness and Employment National Emergency Extended Deadline Act of 2021, of the 117th Congress, as introduced by the Senate.
+    (86) Section 559K of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (87) Section 577 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (88) Section 582 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (89) Section 583 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (90) Section 744 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (91) Section 1412 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (92) Section 5118 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (93) Section 5119 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (94) Section 5903 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (95) Section 6406 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (96) Section 6409 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (97) Section 6410 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (98) Section 6411 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (99) Section 6412 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (100) Section 6413 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (101) Section 6415 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (102) Section 6431 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (103) Section 6433 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (104) Section 6436 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (105) Section 6440 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (106) Section 6441 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (107) Section 6460 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (108) Section 6462 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (109) Section 6475 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (110) Section 6476 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (111) Section 6487 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (112) Section 6488 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (113) Section 6489 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (114) Section 7310 of H.R. 4350, National Defense Authorization Act for Fiscal Year 2022, of the 117th Congress, as passed by the House of Representatives.
+    (115) H.R.4355, Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2022, of the 117th Congress, as introduced by the House of Representatives.
+    (116) H.R.845, VA Billing Accountability Act, of the 117th Congress, as introduced by the House of Representatives.
+    (117) H.R.291, Department of Veterans Affairs Creation of On-Site Treatment Systems Affording Veterans Improvements and Numerous General Safety Enhancements Act, of the 117th Congress, as introduced by the House of Representatives.
+    (118) H.R.4787, To rename the Provo Veterans Center in Orem, Utah, as the "Gail S. Halvorsen 'Candy Bomber' Veterans Center", of the 117th Congress, as introduced by the House of Representatives.
+    (119) H.R.4624, Guaranteeing Healthcare Access to Personnel Who Served Act, of the 117th Congress, as introduced by the House of Representatives.
+
 
 Sec.________ Slip Form Publication
 In publishing this Act in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall include after the date of approval an appendix setting forth the text of each bill, resolution, and other provision referred to in the previous section. This law shall also be published in slip form and made avaliable online within six months of enactement. The Archivist of the United States is authorized to temporaily hire more staff to comply with the provisions of this section. 
