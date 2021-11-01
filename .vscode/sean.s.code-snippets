@@ -1,0 +1,39 @@
+{
+	// Place your Bill workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"Print to console": {
+		"scope": "html",
+		"body": [
+			"<p class='subsection' style='margin-top:10px'></p>"
+		],
+	},
+
+	"Section(Non-Table of Content)":{
+		"scope": "html",
+		"body": [
+			"<p style='margin-top: 15px;margin-bottom: 0px;'><a href='#sec12102a' id='sec12102' style='color: black;' class='section'>Sec 12102. Indemnification Void as Against Public Policy</a></p>"
+		],
+	},
+
+	"Section(Table of Content)":{
+		"scope": "html",
+		"body":[
+			"<p class='tableofcontent'><a href='#sec12101' id='sec12101a'>Sec 12101. Joint and Several Liability</a></p>"
+		]
+	},
+}
