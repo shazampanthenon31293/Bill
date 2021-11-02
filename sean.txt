@@ -164,10 +164,11 @@ Definitions.- In this title-
      (S) Allowing States to close polling places to curb turnout from certian groups;
      (T) Banning the use of sworn written statement to meet identification requirements for voting; 
      (U) Allowing release of personal information;
-     (V) Allowing mid-decade redistricting; or
-     (W) Provisons not relating to voting
+     (V) Allowing mid-decade redistricting;
+     (W) Allowing state legislatures to overturn election;
+     (X) Provisons not relating to voting;
     (4) JUSTIFIED PROVISONS.- The term "Justified Provisons" or "Provisons that are Justified" means an provison that is not banned under paragraph (3)
-    (5) AMENDMENT IN NATURE OF A SUBSTITUTE.- the term "Amendment in Nature of a Substitute" means any amendment that proposes to replace the entire text of the measure.
+    (5) AMENDMENT IN NATURE OF A SUBSTITUTE.- the term "Amendment in Nature of a Substitute" means any amendment that proposes to replace the entire text of the measure. It has to say "Strike all after the enacting clause and insert the  following".
     (6) VOTER CAGING.- The term "voter caging" or "cage voters" means any attempt challenging the registration status of voters
 
     (8) ORIGINAL MEASURE.- The term "Original Measure" means an introduced bill that embodies a text approved in a committee markup but not formally introduced prior to the markup
