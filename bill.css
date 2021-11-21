@@ -102,6 +102,8 @@ a:link,a:visited{
     margin-bottom: 0px;
     line-height: .8;
     margin-bottom: 0px;
+    margin-left: 1em;
+    text-indent: -1em;
 }
 .s2{
     color: red;
